@@ -9,12 +9,22 @@ Classifying texts to either english / french/ Darija, With a focus on including 
 ## Pipeline
 ---
 ## Data Collection
+I used a dataset from kaggle platforme.
+The dataset can be found in this link: https://github.com/salmaelbarbori/LanguageDetection/blob/main/Language%20Detection.csv
 ---
 ##Data Exploring
+```python
+df.describe ()
+```
 --- 
 ## Data Cleaning
+```python
+from nltk.tokenize import word_tokenize
+```
 ---
 ## Machine Learning [Classification Algorithm]
+```python
+```
 ---
 ## Deployment
 
