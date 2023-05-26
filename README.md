@@ -8,6 +8,7 @@ This project is the fruit of a study group that I have been attending during las
 Classifying texts to either english / french/ Darija, With a focus on including darija since it stillnot represented in a decent manner in many text classification projects.
 ---
 ## Pipeline
+[alt text](https://github.com/salmaelbarbori/LanguageDetection/blob/main/Pipeline_png%20(1).png)
 ---
 ## Data Collection
 I used a dataset from kaggle platforme.
